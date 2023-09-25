@@ -1,0 +1,5 @@
+# Scripts for generating sets of peaks across samples for merging/integration:
+
+* Overlap_peaks_acrossSamples.v3.1.20230114.R -- to generate set of non-overlapping peaks per cohort.
+
+* Overlap_peaks_forPancan.20220114.R -- to generate set of non-overlapping peaks for all samples across all cohorts, using peaks from each cohort (from the previous step).

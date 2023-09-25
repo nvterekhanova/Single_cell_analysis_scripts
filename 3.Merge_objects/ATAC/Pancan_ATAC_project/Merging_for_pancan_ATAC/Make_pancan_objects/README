@@ -1,0 +1,8 @@
+# Here are the scripts for generating pan-cancer merged objects
+
+1. ```CellsSampled.v.20230117`` -- all cell types, with cells down-sampled to 600 per cohort-level object cluster.
+
+2. ```Tumor_Normal.SampledAllPeaks.v.20230118``` -- tumor and selected normal cell types (the ones that could be cell-of-origin), with cells down-sampled to 1,000 per cohort-level object cluster.
+
+
+* For both merged objects we used all peaks from the set of non-overlapping pan-cancer peaks.
